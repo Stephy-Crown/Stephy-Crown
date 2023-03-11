@@ -55,3 +55,4 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stephy-Crown&theme=dark&hide_border=true&background=0B040D&sideLabels=AD8C32&border=7F50EB&dates=A7EB34&fire=EB5413)](https://git.io/streak-stats)
