@@ -27,7 +27,7 @@
 
 ---
 ### :woman_technologist: About Me :
-I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. i'm a goal-oriented developer who creates visually appealing and responsive websites and intuitive user interfaces using HTML, CSS, TailwindCSS, Chakra UI, JavaScript, React.js, Next.js and other related technologies..
+I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. I'm a goal-oriented developer who creates visually appealing and responsive websites and intuitive user interfaces using HTML, CSS, TailwindCSS, Chakra UI, JavaScript, React.js, Next.js and other related technologies..
 - :telescope: I’m currently working as a Front-end Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Blogging & Technical Content Writing.
@@ -35,7 +35,7 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 - :zap: In my free time, I read tech articles, listen to music , try out new cooking recipes, read books and spend time with friends and family.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-udemezue-4a858b190/)
-- ⚡ Fun fact: One of my favorite life hacks is knowing how to turn a single meal into three different new menus. I also love singing and listening myself sing(especially when I'm alone). Most times I record myself singing, just to play and listen to my song/my voice over and over again (smiles).
+- ⚡ Fun fact: One of my favorite life hacks is knowing how to turn a single meal into three different new menus. I also love singing and listening to myself sing (especially when I'm alone). Most times I record myself singing, just to play and listen to my song/my voice over and over again (smiles).
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
